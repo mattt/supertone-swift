@@ -2,6 +2,10 @@
 
 A Swift wrapper for the [Supertone](https://supertone.ai) ONNX text-to-speech pipeline.
 
+> [!WARNING] 
+> This project is in active development. 
+> Features and APIs may change.
+
 Generate high-quality speech synthesis from text using voice style embeddings.
 Includes a `supersay` CLI tool similar to the macOS `say` command.
 
